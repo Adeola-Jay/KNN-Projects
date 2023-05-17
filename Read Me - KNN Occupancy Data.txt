@@ -1,0 +1,2 @@
+It is a system that can accurately recognise the presence of occupants without the use of camera.
+KNN Projects
